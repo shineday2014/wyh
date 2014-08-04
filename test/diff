@@ -5,3 +5,5 @@ import pymongo
 con = pymongo.Connection('localhost',27017)
 db = con.db
 table = db.table
+
+wangyonghui changer
